@@ -12,5 +12,11 @@ Week 1 Thursday
 
 
 Week 2 Tuesday
-: Introduction to AI for scientific discovery
+: Multi-layers Perceptron and Recurrent Neural Network
   : [slides](https://www.dropbox.com/scl/fi/a0v87kxrcv7g07j10kxd3/week2-tuesday.pdf?rlkey=bx44art28bapydefa3vzkfj4v&e=1&st=iay7znl0&dl=0), [video](https://youtu.be/R5kdB1lO8TM)
+
+
+Week 2 Thursday
+: Attention Mechanism and Transformer Neural Network
+  : [slides](), [video]()
+  
