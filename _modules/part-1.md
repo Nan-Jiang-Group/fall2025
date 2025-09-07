@@ -18,5 +18,8 @@ Week 2 Tuesday
 
 Week 2 Thursday
 : Attention Mechanism and Transformer Neural Network
-  : [slides](https://www.dropbox.com/scl/fi/artl0u0sleyuzdgkwvn1a/week2-Thursday.pdf?rlkey=m1ewckn43x9h7emig0wjn54hw&st=lbd2u0un&dl=0), [video]()
+  : [slides](https://www.dropbox.com/scl/fi/artl0u0sleyuzdgkwvn1a/week2-Thursday.pdf?rlkey=m1ewckn43x9h7emig0wjn54hw&st=lbd2u0un&dl=0), [video](https://youtu.be/jTGpdGaQTQg)
+
+
   
+: **HW 1 Release**{: .label .label-green } [Homework 1](https://www.dropbox.com/scl/fi/2lvmu1fh35m4rvjqk6gxv/homework-1.pdf?rlkey=lyjaj4j5es7yw41qxp3odgxz3&st=h5iua0wt&dl=0)
