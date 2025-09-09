@@ -15,6 +15,7 @@ Week 2 Tuesday
 : Multi-layers Perceptron and Recurrent Neural Network
   : [slides](https://www.dropbox.com/scl/fi/a0v87kxrcv7g07j10kxd3/week2-tuesday.pdf?rlkey=bx44art28bapydefa3vzkfj4v&e=1&st=iay7znl0&dl=0), [video](https://youtu.be/R5kdB1lO8TM)
 
+: [Tutorial 01 - Function Approximation with Pytorch](https://www.dropbox.com/scl/fi/jt4zpzp795gyu83v7nakw/Tutorial-01-Function-Approximation-with-Pytorch.ipynb?rlkey=3ft2mz2ha5a2l8bi542q6rdkd&st=d883a9wq&dl=0)
 
 Week 2 Thursday
 : Attention Mechanism and Transformer Neural Network
