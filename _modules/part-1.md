@@ -25,3 +25,6 @@ Week 2 Thursday
 Homework  
   : **HW 1 Release**{: .label .label-green }
     : [Homework 1](https://www.dropbox.com/scl/fi/2lvmu1fh35m4rvjqk6gxv/homework-1.pdf?rlkey=lyjaj4j5es7yw41qxp3odgxz3&st=h5iua0wt&dl=0)
+
+
+
