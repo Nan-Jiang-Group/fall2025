@@ -16,4 +16,11 @@ Week 3 Thursday
 
 
 : [Tutorial 02 - JAX API](https://www.dropbox.com/scl/fi/mgibjcbzukscx9ygdw0v8/Tutorial-02-thinking_in_jax.ipynb?rlkey=ee81pey2d147yvtn43iueayq7&st=74z7qcb3&dl=0)
+
+
+Week 4 Tuesday
+: Model Discovery and Symbolic Regression
+  : [slides](), [video]()
+
+  
 : [Tutorial 03 - Neural differential equations](https://www.dropbox.com/scl/fi/a3xzltechyz164g1z8qec/Tutorial-3-Introduction-to-JAX-NDEs-and-diffusion-models.ipynb?rlkey=wju6mhwwouauz5jv5tw20xfbn&st=py4qvyg0&dl=0)
