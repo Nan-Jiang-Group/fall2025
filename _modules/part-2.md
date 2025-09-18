@@ -20,7 +20,12 @@ Week 3 Thursday
 
 Week 4 Tuesday
 : Model Discovery and Symbolic Regression
-  : [slides](), [video]()
+  : [slides](https://www.dropbox.com/scl/fi/u8j2a50lgd54vceegbjgk/Week-4-Tuesday.pdf?rlkey=bve2t9iso1uj3su0wsxumt76n&st=gxbixksd&dl=0), [video](https://youtu.be/EhRE4JiWktA)
 
   
-: [Tutorial 03 - Neural differential equations](https://www.dropbox.com/scl/fi/a3xzltechyz164g1z8qec/Tutorial-3-Introduction-to-JAX-NDEs-and-diffusion-models.ipynb?rlkey=wju6mhwwouauz5jv5tw20xfbn&st=py4qvyg0&dl=0)
+: [Tutorial 03 - Neural differential equations](https://www.dropbox.com/scl/fi/a6osu90ha7gzt5od4lidj/Tutorial-3-Introduction-to-JAX-NDEs.ipynb?rlkey=80dlv2es1681kuxrcvxeot3hf&st=gcbsyfu5&dl=0)
+
+
+Week 4 Thursday
+: Recent Advance on Symbolic Regression
+  : [slides](https://www.dropbox.com/scl/fi/umiy9bas3ocgmrkbx5ruc/Week-4-Thrusday.pdf?rlkey=6m3wr7h4hqnzsnlxdsf701spc&st=u4hiig3d&dl=0), [video](https://youtu.be/DE-tz_TJe-Q)
