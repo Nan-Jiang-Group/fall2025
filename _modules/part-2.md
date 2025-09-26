@@ -29,3 +29,12 @@ Week 4 Tuesday
 Week 4 Thursday
 : Recent Advance on Symbolic Regression
   : [slides](https://www.dropbox.com/scl/fi/umiy9bas3ocgmrkbx5ruc/Week-4-Thrusday.pdf?rlkey=6m3wr7h4hqnzsnlxdsf701spc&st=u4hiig3d&dl=0), [video](https://youtu.be/DE-tz_TJe-Q)
+
+
+Week 5 Tuesday
+: [Recent Advance on Symbolic Regression - II]
+  :[slides](https://www.dropbox.com/scl/fi/g2qhl9n21wgikg4p88htj/Week-5-Tuesday.pdf?rlkey=mlcbikwc0atbnrtsg0999gpol&st=a5kyn2hm&dl=0), vides(https://youtu.be/uuOXeOt0eU0)
+
+Week 5 Thursday
+: [Recent Advance on Symbolic Regression - II]
+  :[slides](https://www.dropbox.com/scl/fi/pxj7e7i6l9wh793yq9pti/week-5-Thursday.pdf?rlkey=pb8hzf9hi77qw4aiu33m2zujo&st=tdmf5hat&dl=0), vides(https://youtu.be/DFob-C6ereI)
