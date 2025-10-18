@@ -42,19 +42,19 @@ Week 5 Thursday
 
 Week 6 Tuesday
 : Student paper presentation
-: [slides](https://www.dropbox.com/scl/fi/xr8nszdnlfwooduhrwe9f/Week-6-Tuesday.pdf?rlkey=6stcl0yh262ldsvoijjw9mexd&st=ontjrfl4&dl=0), [video](https://youtu.be/Qg9viSGrekY)
+  : [slides](https://www.dropbox.com/scl/fi/xr8nszdnlfwooduhrwe9f/Week-6-Tuesday.pdf?rlkey=6stcl0yh262ldsvoijjw9mexd&st=ontjrfl4&dl=0), [video](https://youtu.be/Qg9viSGrekY)
 
 Week 6 Thursday
 : Student paper presentation
-: [slides](https://www.dropbox.com/scl/fi/a9trlbzp2qvdxl9e0zod9/week-6-Thursday.pdf?rlkey=owxxwnd7ckch50waiyimc6tqo&st=0ur7r357&dl=0), [video](https://youtu.be/SQCOyHU_Fyk)
+  : [slides](https://www.dropbox.com/scl/fi/a9trlbzp2qvdxl9e0zod9/week-6-Thursday.pdf?rlkey=owxxwnd7ckch50waiyimc6tqo&st=0ur7r357&dl=0), [video](https://youtu.be/SQCOyHU_Fyk)
 
 Week 7 Tuesday
 : Student paper presentation
-: [slides](https://www.dropbox.com/scl/fi/ak9o6v0xm9p099h2tmud7/week-7-Tuesday.pdf?rlkey=x58teczp59a60uvpo36fdtkvb&st=ae5gnse4&dl=0), [video](https://youtu.be/MimTheBwRak)
+  : [slides](https://www.dropbox.com/scl/fi/ak9o6v0xm9p099h2tmud7/week-7-Tuesday.pdf?rlkey=x58teczp59a60uvpo36fdtkvb&st=ae5gnse4&dl=0), [video](https://youtu.be/MimTheBwRak)
 
 Week 7 Thursday
 : Student paper presentation
-: [slides](https://www.dropbox.com/scl/fi/3hckz11jinfsz1wob8clk/Week-7-Thursday.pdf?rlkey=7l3yv71ag8tsqvhvjjasny3gf&st=3mytubmu&dl=0), [video](https://youtu.be/DyLNf5NGfmg)
+  : [slides](https://www.dropbox.com/scl/fi/3hckz11jinfsz1wob8clk/Week-7-Thursday.pdf?rlkey=7l3yv71ag8tsqvhvjjasny3gf&st=3mytubmu&dl=0), [video](https://youtu.be/DyLNf5NGfmg)
 
 Homework  
   : **HW 3 Release**{: .label .label-green }
@@ -63,9 +63,9 @@ Homework
 
 Week 8 Tuesday
 : Paper reading session on neuro-symbolic AI
-: [slides](https://www.dropbox.com/scl/fi/ak9o6v0xm9p099h2tmud7/week-7-Tuesday.pdf?rlkey=x58teczp59a60uvpo36fdtkvb&st=mr5uat46&dl=0), [video](https://youtu.be/ZFdKWJf7kzA)
+  : [slides](https://www.dropbox.com/scl/fi/ak9o6v0xm9p099h2tmud7/week-7-Tuesday.pdf?rlkey=x58teczp59a60uvpo36fdtkvb&st=mr5uat46&dl=0), [video](https://youtu.be/ZFdKWJf7kzA)
 
 
 Week 8 Thursday
 : Paper reading session on LLM reasoning and Neuro Symbolic AI
-: [slides](https://www.dropbox.com/scl/fi/hqzph6unk7pkhq23nzhpz/week-8-Thursday.pdf?rlkey=xw5emr0za56hjxoft5clnc7xz&st=vtttkxd0&dl=0), [video](https://youtu.be/ZFdKWJf7kzA)
+  : [slides](https://www.dropbox.com/scl/fi/hqzph6unk7pkhq23nzhpz/week-8-Thursday.pdf?rlkey=xw5emr0za56hjxoft5clnc7xz&st=vtttkxd0&dl=0), [video](https://youtu.be/ZFdKWJf7kzA)
