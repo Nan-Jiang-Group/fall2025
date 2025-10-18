@@ -56,9 +56,9 @@ Week 7 Thursday
 : Student paper presentation
   : [slides](https://www.dropbox.com/scl/fi/3hckz11jinfsz1wob8clk/Week-7-Thursday.pdf?rlkey=7l3yv71ag8tsqvhvjjasny3gf&st=3mytubmu&dl=0), [video](https://youtu.be/DyLNf5NGfmg)
 
-Homework  
-  : **HW 3 Release**{: .label .label-green }
-    : [HW 3](https://www.dropbox.com/scl/fi/wvsuskutzeugroko2nswi/Homework-3.tex?rlkey=v25avtv4ey6cfca4951x9c77e&st=46dpslvf&dl=0) 
+Midterm Project Proposal
+  : **Midterm and Final Exam Project Proposal Release**{: .label .label-blue }
+    : [Latex template for proposal](https://www.dropbox.com/scl/fi/61omfp93m7xla1wf7svnq/midterm-and-final-example-latex-template.zip?rlkey=sp2f5x7y6cmrk03m4js5sa3j9&st=9ac5y7e7&dl=0) 
 
 
 Week 8 Tuesday
