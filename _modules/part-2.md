@@ -63,7 +63,7 @@ Homework
 
 Week 8 Tuesday
 : Paper reading session on neuro-symbolic AI
-:[slides](https://www.dropbox.com/scl/fi/ak9o6v0xm9p099h2tmud7/week-7-Tuesday.pdf?rlkey=x58teczp59a60uvpo36fdtkvb&st=mr5uat46&dl=0), [video](https://youtu.be/ZFdKWJf7kzA)
+: [slides](https://www.dropbox.com/scl/fi/ak9o6v0xm9p099h2tmud7/week-7-Tuesday.pdf?rlkey=x58teczp59a60uvpo36fdtkvb&st=mr5uat46&dl=0), [video](https://youtu.be/ZFdKWJf7kzA)
 
 
 Week 8 Thursday
