@@ -3,8 +3,8 @@ title: Part 3 - Invited Talks and Project Presentation
 ---
 
 Week 10 Tuesday
-: Student paper presentation
-  : NeruoSymbolic AI for Math.
+: Student paper presentation: NeruoSymbolic AI for Math.
+  : [slides]()
 
 
 Week 10 Thursday
