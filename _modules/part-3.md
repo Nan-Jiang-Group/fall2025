@@ -25,6 +25,9 @@ Final Project
     : [Latex template for final report](https://www.dropbox.com/scl/fi/a7k8gidsp4pwps1cygi50/Template-for-Final-Report.zip?rlkey=eu8fjkwzihffhfbxd9ye0ozgx&st=wj0ayp6o&dl=0) 
 
 
+Week 12 Tuesday
+
+
 Week 12 Thursday
 : [Invited Talk: Dr. Md Masudur Rahman](https://mmasudurrah.github.io/)
 
