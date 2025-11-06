@@ -20,3 +20,8 @@ Final Project
 
 Week 12 Thursday
 : [Invited Talk: Dr. Md Masudur Rahman](https://mmasudurrah.github.io/)
+
+
+
+Week 14 Tuesday or Thursday
+: [Invited Talk: Dr. Luoping Wang](https://scholar.google.com/citations?user=RFIKAcEAAAAJ&hl=en)
