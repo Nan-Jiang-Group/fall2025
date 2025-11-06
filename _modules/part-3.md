@@ -26,7 +26,7 @@ Final Project
 
 
 Week 12 Tuesday
-
+: Paper presentation
 
 Week 12 Thursday
 : [Invited Talk: Dr. Md Masudur Rahman](https://mmasudurrah.github.io/)
@@ -40,7 +40,7 @@ Week 14 Tuesday (Tentative)
 
 
 Week 14 Thursday 
-  : Thanksgiving Day (No Lecture)
+: Thanksgiving Day (No Lecture)
 
 Week 15 Tuesday
 : Student project summarization.
