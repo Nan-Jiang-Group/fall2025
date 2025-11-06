@@ -31,6 +31,8 @@ Week 12 Tuesday
 Week 12 Thursday
 : [Invited Talk: Dr. Md Masudur Rahman](https://mmasudurrah.github.io/)
 
+Week 13 Tuesday
+: Paper presentation
 
 Week 13 Thursday
 : [Invited Talk: Dr. ]()
