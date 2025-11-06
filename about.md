@@ -25,3 +25,6 @@ Through hands-on experience with existing methods and datasets in simplified set
 
 
 Topics include foundational algorithms and applications such as AI-driven materials discovery, data-driven physical law discovery, and other emerging areas in science-oriented AI research.
+
+
+Here is the [Course Syllabus](https://www.dropbox.com/scl/fi/l1v1ddjot6m2ta8m5zpfw/syllabus-fall-2025-Nan-Jiang-fall-2025-ai4science.pdf?rlkey=4cpzix64l9nexj17sjpwjpr3u&st=8ltf2d1n&dl=0)
