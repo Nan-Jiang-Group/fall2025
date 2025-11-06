@@ -39,8 +39,8 @@ Week 14 Tuesday (Tentative)
 : [Invited Talk: Dr. Luoping Wang](https://scholar.google.com/citations?user=RFIKAcEAAAAJ&hl=en)
 
 
-Week 14 Thursday (No Lecture)
-  : Thanksgiving Day 
+Week 14 Thursday 
+  : Thanksgiving Day (No Lecture)
 
 Week 15 Tuesday
 : Student project summarization.
