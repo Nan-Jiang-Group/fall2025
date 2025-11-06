@@ -23,5 +23,5 @@ Week 12 Thursday
 
 
 
-Week 14 Tuesday or Thursday
+Week 14 Tuesday or Thursday (Tentative)
 : [Invited Talk: Dr. Luoping Wang](https://scholar.google.com/citations?user=RFIKAcEAAAAJ&hl=en)
