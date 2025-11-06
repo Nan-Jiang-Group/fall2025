@@ -16,7 +16,7 @@ Week 11 Tuesday
   : [slides]()
 
 Week 11 Thursday
-:  Integrating Automated Reasoning with Machine Learning for Structured Prediction.
+:  Machine Learning with Automated Reasoning.
   : [slides](), [Paper Reading tool for Arxiv](https://github.com/jiangnanhugo/DailyArXiv)  
 
 
