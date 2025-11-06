@@ -17,7 +17,7 @@ Week 11 Tuesday
 
 Week 11 Thursday
 : Machine Learning with Automated Reasoning.
-  : [slides](), [Paper Reading tool for Arxiv](https://github.com/jiangnanhugo/DailyArXiv)  
+  : [slides](), [Daily Arxiv Tool](https://github.com/jiangnanhugo/DailyArXiv)  
 
 
 Final Project
