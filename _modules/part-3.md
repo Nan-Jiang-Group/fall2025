@@ -29,23 +29,23 @@ Week 12 Tuesday
 : Paper presentation
 
 Week 12 Thursday
-: [Invited Talk: Dr. Md Masudur Rahman](https://mmasudurrah.github.io/)
+: [Invited Talk: Dr. Md Masudur Rahman: AI for Burn analysis](https://mmasudurrah.github.io/)
 
 Week 13 Tuesday
 : Paper presentation
 
 Week 13 Thursday
-: [Invited Talk: Dr. ]()
+: [Invited Talk: Dr. Md Ziyi Wang: Large language model compression via Sparse Quantized Sub-distributions.]([https://mmasudurrah.github.io/](https://scholar.google.com/citations?user=-JhBjx0AAAAJ&hl=zh-CN))
 
-Week 14 Tuesday (Tentative)
-: [Invited Talk: Dr. Luoping Wang](https://scholar.google.com/citations?user=RFIKAcEAAAAJ&hl=en)
+Week 14 Tuesday 
+: Learning Markov Random Fields for Combinatorial Structures via Sampling through Lovász Local Lemma.
 
 
 Week 14 Thursday 
 : Thanksgiving Day (No Lecture)
 
-Week 15 Tuesday
-: Student project summarization.
+Week 15 Tuesday 
+: Learning Markov Random Fields for Combinatorial Structures via Sampling through Lovász Local Lemma.
 
 Week 15 Thursday
-: Student project summarization (Remote, Zoom) 
+: [Invited Talk: Dr. Luoping Wang](https://scholar.google.com/citations?user=RFIKAcEAAAAJ&hl=en)
